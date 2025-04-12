@@ -55,3 +55,29 @@ copy the m3u8 url or .ts file url
 
 # if it helps you, please give a star
 
+# Legal Disclaimer / 法律声明
+
+This script is provided for educational and research purposes only. The author does not endorse or encourage:
+
+- Downloading copyrighted content without permission
+- Downloading adult content or other age-restricted materials
+- Using this tool for any illegal purposes or activities
+- Redistributing downloaded content without authorization
+
+Users are solely responsible for how they use this script. The author:
+
+- Takes no responsibility for misuse of this tool
+- Is not liable for any legal consequences users may face
+- Does not guarantee the legality of downloaded content
+- Reserves the right to discontinue development if misused
+
+By using this script, you agree to:
+
+- Use it in compliance with all applicable laws
+- Accept full responsibility for your actions
+- Not hold the author liable for any damages
+- Report any illegal usage you discover
+
+If you discover this tool being used for illegal purposes, please report it to relevant authorities.
+
+使用者须知：本工具仅供学习和研究使用。使用者必须遵守所在地区的相关法律法规，不得用于任何非法用途。作者不对任何滥用行为负责，也不对使用过程中可能产生的任何法律后果承担责任。
